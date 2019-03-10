@@ -10,7 +10,7 @@ namespace GitTrainingProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Первая версия данной программы");
+            Console.WriteLine("Хочу что-то изменить в ветке МАСТЕР");
         }
     }
 }
